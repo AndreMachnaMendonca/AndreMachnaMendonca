@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndreMachnaMendonca
 - 👀 I’m interested in | Flask | Back-end | Python | SQL | Data science | AWS | Mongo DB | Internet of things
-- 🌱 I’m currently learning Design Patterns
-- 
+- 🌱 I’m currently learning Design Patterns and POO on Python
 - 📫 How to reach me: andremachna@gmail.com, +55 99858-7960, https://twitter.com/de_machna
